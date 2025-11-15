@@ -1,0 +1,19 @@
+# ESP-IDF build system
+/build/
+sdkconfig.old
+
+# Editor/OS
+*.swp
+*.swo
+*.DS_Store
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+
+# LovyanGFX / LVGL generated
+*.bin
+*.bak
+
+# Logs
+*.log
