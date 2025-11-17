@@ -1,3 +1,19 @@
+**Simple Base code to setup WT32-SC01 with EEZ studio**
+---
+## ⭐ Features
+
+- WT32-SC01 (480×320) TFT display supported
+- LVGL 8.x rendering
+- EEZ Studio → LVGL code generation pipeline
+- Multiple button events:
+  - `Button PRESSED`
+  - `Chart click`
+- Charts and data update through ESP32-like sensor data
+- Bars to show the data
+- Modify chart elements with buttons
+- Reset the graph with the graph click event
+- Simple `actions.c` file for your logic
+  
 # Device
 
 ![device](device.png)
