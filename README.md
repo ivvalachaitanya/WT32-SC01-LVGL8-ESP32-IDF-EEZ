@@ -13,6 +13,7 @@ This project includes:
 # **Projects**
 - [Base code (Buttons + LogPrint)](https://github.com/ivvalachaitanya/WT32-SC01-LVGL8-ESP32-IDF-EEZ/tree/main/LVGL8-WT32-SC01-IDF-EZZ-Base)
 - [Example with charts + Buttons + Bar + LogPrint](https://github.com/ivvalachaitanya/WT32-SC01-LVGL8-ESP32-IDF-EEZ/tree/main/LVGL8-WT32-SC01-IDF-EZZ-Charts)
+- [Arduino Base code](https://github.com/ivvalachaitanya/WT32-SC01-LVGL8-ESP32-IDF-EEZ/tree/main/LVGL8-WT32-SC01-Arduino-Buttons)
 
 
 ---
